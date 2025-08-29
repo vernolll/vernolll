@@ -1,6 +1,6 @@
 ### 👋 Привет, я Марина
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB6Z2Y1N2d1ZjdmbzBwOWdxaHB0MTB3OHVhNGc3MnkzcGl1NW94biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB6Z2Y1N2d1ZjdmbzBwOWdxaHB0MTB3OHVhNGc3MnkzcGl1NW94biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif" width="300" />
 
 <br>
 Кросс-платформенный разработчик настольных приложений. Скоро я получу степень бакалавра в области программной инженерии!

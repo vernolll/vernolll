@@ -1,4 +1,4 @@
-<h3 align="center">**👋 Hi, I'm Marina. **</h3>
+<h1 align="center">👋 <strong>Hi, I'm Marina.</strong></h1>
 
 ### A cross-platform developer C++ of desktop applications. I will be getting my bachelor's degree in software engineering soon!
 

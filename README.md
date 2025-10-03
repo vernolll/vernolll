@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Marina. </h3>
+<h3 align="center">**👋 Hi, I'm Marina. **</h3>
 
 ### A cross-platform developer C++ of desktop applications. I will be getting my bachelor's degree in software engineering soon!
 
@@ -46,6 +46,8 @@
 <h3 align="center"> ✨ My statistics on GitHub </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vernolll&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vernolll&layout=compact" alt="Top Langs" />
 </p>
 

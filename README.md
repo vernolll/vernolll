@@ -58,5 +58,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
-  <img src="https://komarev.com/ghpvc/?username=vernolll&color=blue" alt="Profile views counter" />
 </p>
